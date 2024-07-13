@@ -5,7 +5,7 @@
 🤹🏼‍♂️ Current Co-op at CIBC as an IT Project Coordinator<br/>
 💭 Currently learning about Artificial Intelligence and data science<br/>
 
-**What are my hobbies?**
+** 🎨 What are my hobbies?**
 - 🏀 I love playing basketball<br/> 
 - 📚 Occasionally reading about productivity & business<br/>
 - 🎧 I love listening to music, some of my favorite arists currently are:<br/>
