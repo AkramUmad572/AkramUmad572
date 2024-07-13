@@ -1,4 +1,4 @@
-### Hi, I'm Umad!
+### 👋 Hi, I'm Umad!
 
 👨🏻‍💻 Aspiring Software Engineer & Cybersecurity Analyst<br/>
 👩🏻‍🎓 Studying Bachelors in Networking and Information Technology Security at Ontario Tech University<br/>
