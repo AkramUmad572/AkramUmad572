@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Aspiring Software Engineer<br/>
 👩🏻‍🎓 Studying Networking and Information Technology Security at Ontario Tech University<br/>
-🤹🏼‍♂️ Current Co-op at CIBC as an IT Project Coordinator<br/>
+🤹🏼‍♂️ Currently interning at CIBC as a Cloud-Engineer <br/>
 💭 Currently learning about Artificial Intelligence and data science<br/>
 
 🎨 **What are my hobbies?**
