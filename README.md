@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Umad!
 
 👨🏻‍💻 Aspiring Software Engineer<br/>
-👩🏻‍🎓 Studying Information Technology and Networking at Ontario Tech University<br/>
+👩🏻‍🎓 Studying Computer Science at Ontario Tech University<br/>
 🤹🏼‍♂️ Currently interning at CIBC as a Cloud-Engineer <br/>
 💭 Currently learning about Artificial Intelligence and Machine Learning<br/>
 
