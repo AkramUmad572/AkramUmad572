@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Aspiring Software Engineer<br/>
 👩🏻‍🎓 Studying Computer Science at Ontario Tech University<br/>
-🤹🏼‍♂️ Currently interning at CIBC as a Cloud Engineer <br/>
+🤹🏼‍♂️ Currently working as a SWE intern at Canadian Imperial Bank of Commerce <br/>
 💭 Currently learning about Artificial Intelligence and Machine Learning<br/>
 
 🎨 **What are my hobbies?**
