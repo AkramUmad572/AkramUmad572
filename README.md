@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Aspiring Software Engineer<br/>
 👩🏻‍🎓 Studying Computer Science at Ontario Tech University<br/>
-🤹🏼‍♂️ Previously interned as a Software Engineering Intern at the Canadian Imperial Bank of Commerce<br/>
+🤹🏼‍♂️ Prev SWE Intern @ Canadian Imperial Bank of Commerce<br/>
 💭 Currently learning about Artificial Intelligence and Machine Learning<br/>
 
 🎨 **What are my hobbies?**
