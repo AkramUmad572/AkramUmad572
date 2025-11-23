@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Umad!
 
-👨🏻‍💻 Aspiring Software Engineer and Quant<br/>
+👨🏻‍💻 Currently building <a href="https://creation.builders/">Creation</a> <br/>
 👩🏻‍🎓 Studying Computer Science at Ontario Tech University<br/>
 🤹🏼‍♂️ Prev SWE Intern @ Canadian Imperial Bank of Commerce<br/>
 💭 Currently learning about Artificial Intelligence and Machine Learning<br/>
