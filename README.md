@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Currently building <a href="https://creation.builders/">Creation</a> <br/>
 👩🏻‍🎓 Studying Computer Science at Ontario Tech University<br/>
-🤹🏼‍♂️ Prev SWE Intern @ Canadian Imperial Bank of Commerce<br/>
+🤹🏼‍♂️ Incoming SWE @ Shopify | Prev SWE Inter @ Canadian Imperial Bank of Commerce<br/>
 💭 Currently learning about Artificial Intelligence and Machine Learning<br/>
 
 🎨 **What are my hobbies?**
